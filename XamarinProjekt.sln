@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinProjekt.Android", "XamarinProjekt\XamarinProjekt.Android\XamarinProjekt.Android.csproj", "{A55D086B-A7DD-4569-BC16-1074BD576F1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinProjekt", "XamarinProjekt\XamarinProjekt\XamarinProjekt.csproj", "{80199976-84D9-48DF-A757-A2AC7452A838}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{26D6A8AD-E78E-4B41-B509-84C1A58D3E01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A55D086B-A7DD-4569-BC16-1074BD576F1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A55D086B-A7DD-4569-BC16-1074BD576F1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A55D086B-A7DD-4569-BC16-1074BD576F1E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A55D086B-A7DD-4569-BC16-1074BD576F1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A55D086B-A7DD-4569-BC16-1074BD576F1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A55D086B-A7DD-4569-BC16-1074BD576F1E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{80199976-84D9-48DF-A757-A2AC7452A838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80199976-84D9-48DF-A757-A2AC7452A838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80199976-84D9-48DF-A757-A2AC7452A838}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{80199976-84D9-48DF-A757-A2AC7452A838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80199976-84D9-48DF-A757-A2AC7452A838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80199976-84D9-48DF-A757-A2AC7452A838}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{26D6A8AD-E78E-4B41-B509-84C1A58D3E01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26D6A8AD-E78E-4B41-B509-84C1A58D3E01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26D6A8AD-E78E-4B41-B509-84C1A58D3E01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26D6A8AD-E78E-4B41-B509-84C1A58D3E01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FEF89CB-4489-4410-A808-DEA825A2A61D}
+	EndGlobalSection
+EndGlobal
